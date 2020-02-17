@@ -1,5 +1,5 @@
 {
-    "name": "walternascimentobarroso/loterias-api",
+    "name": "walternascimentobarroso/loterias",
     "description": "Web crawler para buscar os resultados das loterias da caixa",
     "keywords": ["loterias", "caixa", "cef", "caixa econômica federal"],
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "WalterNascimentoBarroso\\LoteriasApi\\": "src/"
+            "WalterNascimentoBarroso\\Loterias\\": "src/"
         }
     },
     "minimum-stability": "stable"

@@ -1,6 +1,6 @@
 <?php
 
-namespace WalterNascimentoBarroso\LoteriasApi;
+namespace WalterNascimentoBarroso\Loterias;
 
 abstract class LoteriasApi
 {

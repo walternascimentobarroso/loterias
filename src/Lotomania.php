@@ -1,6 +1,6 @@
 <?php
 
-namespace WalterNascimentoBarroso\LoteriasApi;
+namespace WalterNascimentoBarroso\Loterias;
 
 class Lotomania extends LoteriasApi
 {
