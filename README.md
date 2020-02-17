@@ -6,7 +6,7 @@
 ## Instalação
 Instalação feita via Composer
 ```bash
-composer require walternascimentobarroso/loterias-api
+composer require walternascimentobarroso/loterias
 ```
 
 ### Uso
