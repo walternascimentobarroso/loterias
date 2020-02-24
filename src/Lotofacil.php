@@ -4,7 +4,16 @@ namespace WalterNascimentoBarroso\Loterias;
 
 class Lotofacil extends LoteriasApi
 {
-
+    
+    public function getAll()
+    {
+        $retorno = [];
+        if ($this->json) {
+            $retorno = $this->json;
+        }
+        return $retorno;
+    }
+    
     public function getGanhadores()
     {
         $retorno = [];
